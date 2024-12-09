@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<network-security-config>
-    <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">mock_api_url_for_weather.com</domain>
-        <domain includeSubdomains="true">openweathermap.org</domain>
-    </domain-config>
-</network-security-config>
