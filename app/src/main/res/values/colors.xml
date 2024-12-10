@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dawn">#FFD54F</color>
+    <color name="day">#FFEB3B</color>
+    <color name="dusk">#FF7043</color>
+    <color name="night">#2196F3</color>
+    <color name="divider">#D3D3D3</color>
+</resources>
+
